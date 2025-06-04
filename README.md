@@ -10,12 +10,6 @@ Requires
 
  * Python 3.7 (Possibly others)
  
-Python Modules
---------------
- 
- * PyQt5 and PySide2 (pip install PyQt5 pyside2)
- * plyer (pip install plyer)
-
 Description
 --------------
 
@@ -39,6 +33,4 @@ Important:
  * Before sorting  make sure all files are closed in the folder you want to sort
  * After start sorting don't do anything with the files, don't restart this tool and please wait for the system notification about complete
 
-License
-----------------
-GNU GPL 3
+
